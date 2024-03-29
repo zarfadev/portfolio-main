@@ -1,0 +1,15 @@
+{
+  "title": "Templates Web",
+  "subTitle": "Mes création",
+  "filters": [
+    {
+      "name": "Types",
+      "clear": "Tout",
+      "tags": [
+        "Dashboard",
+        "Portfolio",
+        "Marketing"
+      ]
+    }
+  ]
+}

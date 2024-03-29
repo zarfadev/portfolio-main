@@ -1,0 +1,17 @@
+{
+  "title": "My works",
+  "subTitle": "My projects",
+  "filters": [
+    {
+      "name": "Types",
+      "clear": "All",
+      "tags": [
+        "Web Design",
+        "Programming",
+        "Projects",
+        "Branding",
+        "Logotype"
+      ]
+    }
+  ]
+}

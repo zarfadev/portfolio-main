@@ -1,0 +1,25 @@
+{
+  "title": "Personal blog",
+  "subTitle": "My articles",
+  "filters": [
+    {
+      "name": "Types",
+      "clear": "All",
+      "tags": [
+        "Community",
+        "Programming",
+        "Branding",
+        "Sponsor"
+      ]
+    },
+    {
+      "name": "Themes",
+      "clear": "All",
+      "tags": [
+        "Training",
+        "Courses",
+        "Tips"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Academic Journey",
+  "subTitle": "ACADEMIC EXPERIENCE",
+  "resume": "For over 4 years, I have been continuously learning in the field of web design and graphic design, constantly experimenting with new approaches and styles. Here is a summary of my skills.",
+  "schools": [
+    {
+      "name": "BAC STI2D",
+      "date": "2020 - 2023",
+      "location": "Dourdan, France"
+    }
+  ]
+}

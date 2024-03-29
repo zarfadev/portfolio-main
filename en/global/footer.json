@@ -1,0 +1,53 @@
+{
+  "resume": "I am a creative web UI/UX designer with over 4 years of experience. I am also experienced in logo design, web design, and brand design.",
+  "develop": "Developed by",
+  "github": "https://github.com/ZeTro-dev",
+  "behance": "https://www.behance.net/zetro",
+  "twitter": "https://twitter.com/LeZeTro",
+  "figma": "https://www.figma.com/@zetro",
+  "shortcut": [
+    {
+      "title": "Navigation",
+      "content": [
+        {
+          "name": "Accueil",
+          "link": "https://zetro.fr"
+        },
+        {
+          "name": "Projects",
+          "link": "https://zetro.fr/projects"
+        },
+        {
+          "name": "Blog",
+          "link": "https://zetro.fr/blog"
+        },
+        {
+          "name": "Templates",
+          "link": "https://zetro.fr/templates"
+        }
+      ]
+    },
+    {
+      "title": "Project",
+      "content": [
+        {
+          "name": "Starlyn",
+          "link": "https://starlyn.fr"
+        },
+        {
+          "name": "Café des Devs",
+          "link": "https://discord.gg/cafedesdevs"
+        }
+      ]
+    },
+    {
+      "title": "Contact me",
+      "content": [
+        {
+          "name": "contact@zetro.fr",
+          "link": "mailto:contact@zetro.fr"
+        }
+      ]
+    }
+  ]
+}

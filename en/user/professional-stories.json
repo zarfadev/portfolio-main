@@ -1,0 +1,45 @@
+{
+  "title": "Work experiences",
+  "subTitle": "PPROFESSIONAL CAREER",
+  "stories": [
+    {
+      "company": "Fouassin (CDI)",
+      "date": "Janv 2024 · Temps plein",
+      "location": "Paris, France",
+      "title": "Electrician",
+      "content": [
+        "Strong current and weak current."
+      ],
+      "tags": [
+        "Company"
+      ]
+    },
+    {
+      "company": "Cesa",
+      "date": "Juil 2023 - Déc 2023 · Full-time",
+      "location": "Paris, France",
+      "title": "Electrician",
+      "content": [
+        "Renovation of a hospital's electrical infrastructure."
+      ],
+      "tags": [
+        "Company"
+      ]
+    },
+    {
+      "company": "UmboFrance",
+      "date": "Nov 2022 - Janv 2023 · Part-time",
+      "location": "Paris, France",
+      "title": "Graphic designer",
+      "content": [
+        "End-to-end design of the brand's graphic identity.",
+        "Development of an attractive artistic direction for the domain.",
+        "Management of project communication."
+      ],
+      "tags": [
+        "Company"
+      ]
+    }
+  ]
+}
+

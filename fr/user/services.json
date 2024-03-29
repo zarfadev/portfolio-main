@@ -1,0 +1,18 @@
+{
+  "title": "Spécialisé dans",
+  "subTitle": "SERVICES",
+  "cards": [
+    {
+      "title": "UI/UX Design",
+      "content": "Designer web passionné, je crée des interfaces élégantes et fonctionnelles pour des expériences utilisateur uniques."
+    },
+    {
+      "title": "Graphiste",
+      "content": "Graphiste créatif pour des designs originaux et impactants, je crée des visuels qui reflètent l'identité et les objectifs de mes clients."
+    },
+    {
+      "title": "Développeur",
+      "content": "Développeur polyvalent et passionné, je mets mes compétences au service de projets variés pour créer des expériences numériques uniques et fonctionnelles."
+    }
+  ]
+}

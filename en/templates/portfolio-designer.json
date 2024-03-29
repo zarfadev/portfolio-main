@@ -1,0 +1,11 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/templates/design.png",
+  "name": "Portfolio for designer web",
+  "url": "zetro-studio",
+  "date": "20223-06-17",
+  "price": 15,
+  "tags": [
+    "Portfolio"
+  ],
+  "redirection": "https://zetrostudio.gumroad.com/l/portfolio-designer"
+}

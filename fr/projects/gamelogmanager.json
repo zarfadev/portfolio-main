@@ -1,0 +1,70 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png",
+  "name": "GameLogManager",
+  "url": "game-log-manager",
+  "date": "2022-10-31",
+  "tags": [
+    "Charte Graphique",
+    "Design Web"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Game Log Manager",
+      "description": "Il s'agit d'une application web conçue pour gérer et exploiter les logs de serveurs de jeux vidéo. Elle permet également la gestion des utilisateurs et de leurs permissions.\nElle peut également être utilisée par les développeurs de jeux pour surveiller les performances et résoudre les problèmes sur les serveurs de jeux.",
+      "tags": [
+        "Charte Graphique",
+        "Design Web"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "Ce qu'il faut savoir de Game Log Manager",
+      "text": "Il s'agit d'une application web hautement fonctionnelle et conviviale, spécialement conçue pour répondre aux besoins de gestion et d'exploitation des logs de serveurs de jeux vidéo. Cette application offre une solution complète et puissante pour les entreprises et les organisations qui hébergent et opèrent des serveurs de jeux. L'une des principales caractéristiques de cette application est sa capacité à faciliter la gestion des utilisateurs et de leurs permissions. Grâce à une interface intuitive et conviviale, les administrateurs système peuvent facilement attribuer des rôles et des autorisations spécifiques à chaque utilisateur. Cela permet un contrôle granulaire sur les actions et les accès des utilisateurs, assurant ainsi la sécurité et la confidentialité des données sensibles.\nOutre sa fonction de gestion des utilisateurs, cette application offre également un ensemble d'outils performants aux développeurs de jeux. Ces outils permettent de surveiller en temps réel les performances des serveurs de jeux, de collecter et d'analyser les logs pour détecter d'éventuels problèmes et d'apporter des solutions rapides. Cela permet aux développeurs de garantir une expérience de jeu fluide et sans interruptions pour les joueurs, améliorant ainsi la rétention des utilisateurs et la satisfaction globale."
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "text": "L'utilisation d'un dégradé de couleurs basé sur le violet apporte une atmosphère immersive et dynamique à votre site de logs pour les jeux vidéo. Le violet est souvent associé à la technologie et à l'univers virtuel, ce qui en fait un choix pertinent pour un site axé sur les jeux vidéo. En commençant par une teinte violette profonde, vous pouvez progressivement faire évoluer le dégradé vers des nuances plus claires de violet ou d'autres couleurs complémentaires. Cela créera une transition fluide et attrayante, rappelant les univers virtuels des jeux vidéo. Il peut être intéressant d'ajouter des touches de couleurs vives et éclatantes pour dynamiser davantage le dégradé. Par exemple, des accents de bleu électrique, de rose vif ou de vert lumineux peuvent être utilisés pour mettre en valeur des éléments spécifiques du site, tels que les boutons d'action ou les sections importantes.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Conception du logo",
+      "text": "Pour ce logo, je suis resté sur quelque chose d'assez simpliste et léger. C'est donc pour cela que j'ai choisi un cube pour faire référence au monde de \"Minecraft\". J'ai donc inséré les initiales du projet \"G, L, M\".\n\nDans le cas présent, la référence à \"Minecraft\" est pertinente puisqu'il s'agit d'un jeu vidéo très populaire auprès d'un public jeune et connecté. Le cube est un élément graphique simple mais efficace pour évoquer cet univers. Quant aux initiales \"G, L, M\", elles permettent de rappeler le nom du projet de manière discrète.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Maquette web",
+      "text": "Dans la réalisation de la maquette web pour ce projet, j'ai cherché à créer une expérience visuelle immersive en m'inspirant du monde du gaming. J'ai consciemment opté pour des formes aux contours arrondis, car elles apportent une touche de douceur et d'ergonomie à l'ensemble du design. Cette esthétique arrondie donne une sensation de convivialité et de confort, invitant les utilisateurs à se plonger dans l'univers du site. En ce qui concerne la disposition des éléments, j'ai privilégié la simplicité et la clarté. J'ai veillé à ce que chaque composant de la maquette soit facilement identifiable et compréhensible pour les visiteurs. En réduisant les éléments superflus et en simplifiant les interfaces, j'ai cherché à offrir une expérience utilisateur intuitive et fluide. L'objectif principal de cette maquette web est donc de créer un équilibre entre un style gaming attrayant et une utilisation pratique. J'ai ainsi travaillé à la création d'une interface esthétiquement plaisante, tout en mettant en avant la facilité d'utilisation et la clarté des informations pour garantir une expérience agréable aux utilisateurs.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/design_web.png"
+    },
+    {
+      "type": "Contributor",
+      "title": "Contributeur",
+      "contributors": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/zelytra.png",
+          "name": "Zelytra",
+          "tags": [
+            "Développeur"
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leurs réseaux ci-dessous",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
+          "name": "Site Web",
+          "link": "https://demo.glm.zelytra.fr/"
+        }
+      ]
+    }
+  ]
+}
